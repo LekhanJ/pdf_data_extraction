@@ -1,0 +1,147 @@
+2026-01-05 16:43:38,227 - INFO - Starting extraction for: C:\Users\DELL\Downloads\unlocked-6-7.pdf
+2026-01-05 16:45:29,645 - INFO - Starting extraction for: C:\Users\DELL\Downloads\unlocked-6-7.pdf
+2026-01-05 16:45:29,648 - ERROR - Could not read PDF info: Unable to get page count. Is poppler installed and in PATH?
+2026-01-05 16:51:01,513 - INFO - Starting extraction for: C:\Users\DELL\Downloads\unlocked-6-7.pdf
+2026-01-05 16:51:01,685 - INFO - Total Pages: 4. Processing: 4
+2026-01-05 16:51:01,686 - INFO - ---------------------------
+2026-01-05 16:51:01,686 - INFO - Processing Chunk: Pages 1-2
+2026-01-05 16:51:01,687 - INFO - Converting PDF pages 1 to 2...
+2026-01-05 16:51:17,418 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 16:51:17,947 - ERROR - Gemini API Error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-05 16:51:40,639 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 16:51:40,792 - ERROR - Gemini API Error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-05 16:52:01,427 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 16:52:01,548 - ERROR - Gemini API Error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-05 16:52:06,683 - ERROR - Critical failure in chunk 1-2: RetryError[<Future at 0x2b823a65650 state=finished raised NotFound>]
+2026-01-05 16:52:06,685 - INFO - ---------------------------
+2026-01-05 16:52:06,686 - INFO - Processing Chunk: Pages 3-4
+2026-01-05 16:52:06,686 - INFO - Converting PDF pages 3 to 4...
+2026-01-05 16:52:22,484 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 16:52:22,598 - ERROR - Gemini API Error: 404 models/gemini-1.5-pro-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-01-05 16:58:11,481 - INFO - Starting extraction for: C:\Users\DELL\Downloads\unlocked-6-7.pdf
+2026-01-05 16:58:11,509 - INFO - Total Pages: 4. Processing: 4
+2026-01-05 16:58:11,510 - INFO - ---------------------------
+2026-01-05 16:58:11,510 - INFO - Processing Chunk: Pages 1-2
+2026-01-05 16:58:11,510 - INFO - Converting PDF pages 1 to 2...
+2026-01-05 16:58:27,216 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 17:00:27,401 - INFO - Extracted 33 records from batch.
+2026-01-05 17:00:35,981 - INFO - Chunk success. Added 33 records. Total: 33
+2026-01-05 17:00:35,982 - INFO - ---------------------------
+2026-01-05 17:00:35,983 - INFO - Processing Chunk: Pages 3-4
+2026-01-05 17:00:35,983 - INFO - Converting PDF pages 3 to 4...
+2026-01-05 17:00:51,810 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 17:01:47,952 - INFO - Extracted 24 records from batch.
+2026-01-05 17:01:53,641 - INFO - Chunk success. Added 24 records. Total: 57
+2026-01-05 17:01:53,694 - INFO - Total Records Extracted: 57
+2026-01-05 17:07:49,733 - INFO - Starting extraction for: C:\Users\DELL\Downloads\unlocked-6-7.pdf
+2026-01-05 17:07:49,766 - INFO - Total Pages: 4. Processing: 4
+2026-01-05 17:07:49,766 - INFO - ---------------------------
+2026-01-05 17:07:49,767 - INFO - Processing Chunk: Pages 1-2
+2026-01-05 17:07:49,767 - INFO - Converting PDF pages 1 to 2...
+2026-01-05 17:08:03,991 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 17:09:07,221 - INFO - Extracted 33 records from batch.
+2026-01-05 17:09:11,842 - INFO - Chunk success. Added 33 records. Total: 33
+2026-01-05 17:09:11,843 - INFO - ---------------------------
+2026-01-05 17:09:11,844 - INFO - Processing Chunk: Pages 3-4
+2026-01-05 17:09:11,844 - INFO - Converting PDF pages 3 to 4...
+2026-01-05 17:09:26,529 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 17:10:40,030 - INFO - Extracted 24 records from batch.
+2026-01-05 17:10:45,417 - INFO - Chunk success. Added 24 records. Total: 57
+2026-01-05 17:10:45,424 - INFO - Total Records Extracted: 57
+2026-01-05 17:13:56,743 - INFO - Starting extraction for: C:\Users\DELL\Downloads\unlocked-6-7.pdf
+2026-01-05 17:13:56,792 - INFO - Total Pages: 4. Processing: 4
+2026-01-05 17:13:56,793 - INFO - ---------------------------
+2026-01-05 17:13:56,793 - INFO - Processing Chunk: Pages 1-1
+2026-01-05 17:13:56,794 - INFO - Converting PDF pages 1 to 1...
+2026-01-05 17:14:08,580 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 17:15:07,743 - INFO - Extracted 18 records from batch.
+2026-01-05 17:15:09,607 - INFO - Chunk success. Added 15 records. Total: 15
+2026-01-05 17:15:09,608 - INFO - ---------------------------
+2026-01-05 17:15:09,609 - INFO - Processing Chunk: Pages 2-2
+2026-01-05 17:15:09,609 - INFO - Converting PDF pages 2 to 2...
+2026-01-05 17:15:19,918 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 17:16:56,918 - INFO - Extracted 15 records from batch.
+2026-01-05 17:17:10,165 - INFO - Chunk success. Added 15 records. Total: 30
+2026-01-05 17:17:10,166 - INFO - ---------------------------
+2026-01-05 17:17:10,167 - INFO - Processing Chunk: Pages 3-3
+2026-01-05 17:17:10,167 - INFO - Converting PDF pages 3 to 3...
+2026-01-05 17:17:23,576 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 17:18:15,526 - INFO - Extracted 18 records from batch.
+2026-01-05 17:18:18,119 - INFO - Chunk success. Added 18 records. Total: 48
+2026-01-05 17:18:18,120 - INFO - ---------------------------
+2026-01-05 17:18:18,121 - INFO - Processing Chunk: Pages 4-4
+2026-01-05 17:18:18,121 - INFO - Converting PDF pages 4 to 4...
+2026-01-05 17:18:28,581 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 17:19:18,451 - INFO - Extracted 6 records from batch.
+2026-01-05 17:19:20,506 - INFO - Chunk success. Added 6 records. Total: 54
+2026-01-05 17:19:20,520 - INFO - Total Records Extracted: 54
+2026-01-05 17:46:19,697 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-05 17:46:19,722 - INFO - Total Pages: 2. Processing: 2
+2026-01-05 17:46:19,722 - INFO - ---------------------------
+2026-01-05 17:46:19,722 - INFO - Processing Chunk: Pages 1-2
+2026-01-05 17:46:19,723 - INFO - Converting PDF pages 1 to 2...
+2026-01-05 17:46:36,546 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 17:48:20,553 - INFO - Extracted 57 records from batch.
+2026-01-05 17:49:04,793 - INFO - Chunk success. Added 57 records. Total: 57
+2026-01-05 17:49:04,853 - INFO - Total Records Extracted: 57
+2026-01-05 17:55:10,848 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-05 17:55:10,879 - INFO - Total Pages: 2. Processing: 2
+2026-01-05 17:55:10,880 - INFO - ---------------------------
+2026-01-05 17:55:10,880 - INFO - Processing Chunk: Pages 1-1
+2026-01-05 17:55:10,881 - INFO - Converting PDF pages 1 to 1...
+2026-01-05 17:55:24,561 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 17:56:21,042 - INFO - Extracted 27 records from batch.
+2026-01-05 17:56:23,131 - INFO - Chunk success. Added 27 records. Total: 27
+2026-01-05 17:56:23,132 - INFO - ---------------------------
+2026-01-05 17:56:23,133 - INFO - Processing Chunk: Pages 2-2
+2026-01-05 17:56:23,133 - INFO - Converting PDF pages 2 to 2...
+2026-01-05 17:56:35,623 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 17:57:38,652 - INFO - Extracted 30 records from batch.
+2026-01-05 17:57:41,416 - INFO - Chunk success. Added 30 records. Total: 57
+2026-01-05 17:57:41,423 - INFO - Total Records Extracted: 57
+2026-01-05 18:00:20,182 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-05 18:00:20,206 - INFO - Total Pages: 2. Processing: 2
+2026-01-05 18:00:20,206 - INFO - ---------------------------
+2026-01-05 18:00:20,206 - INFO - Processing Chunk: Pages 1-2
+2026-01-05 18:00:20,206 - INFO - Converting PDF pages 1 to 2...
+2026-01-05 18:01:16,618 - ERROR - Gemini API Error: EOF occurred in violation of protocol (_ssl.c:2427)
+2026-01-05 18:01:47,708 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 18:03:07,139 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-05 18:03:07,162 - INFO - Total Pages: 2. Processing: 2
+2026-01-05 18:03:07,162 - INFO - ---------------------------
+2026-01-05 18:03:07,163 - INFO - Processing Chunk: Pages 1-2
+2026-01-05 18:03:07,163 - INFO - Converting PDF pages 1 to 2...
+2026-01-05 18:03:23,007 - INFO - Sending batch of 2 pages to Gemini Vision...
+2026-01-05 18:04:57,447 - INFO - Extracted 57 records from batch.
+2026-01-05 18:05:02,302 - INFO - Chunk success. Added 57 records. Total: 57
+2026-01-05 18:05:02,309 - INFO - Total Records Extracted: 57
+2026-01-05 18:24:03,934 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-05 18:24:03,963 - INFO - Total Pages: 2. Processing: 2
+2026-01-05 18:24:03,963 - INFO - ---------------------------
+2026-01-05 18:24:03,963 - INFO - Processing Chunk: Pages 1-1
+2026-01-05 18:24:03,963 - INFO - Converting PDF pages 1 to 1...
+2026-01-05 18:24:18,679 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 18:25:10,732 - INFO - Extracted 27 records from batch.
+2026-01-05 18:25:13,314 - INFO - Chunk success. Added 27 records. Total: 27
+2026-01-05 18:25:13,315 - INFO - ---------------------------
+2026-01-05 18:25:13,315 - INFO - Processing Chunk: Pages 2-2
+2026-01-05 18:25:13,316 - INFO - Converting PDF pages 2 to 2...
+2026-01-05 18:25:26,250 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 18:26:18,595 - INFO - Extracted 30 records from batch.
+2026-01-05 18:26:21,489 - INFO - Chunk success. Added 30 records. Total: 57
+2026-01-05 18:26:21,505 - INFO - Total Records Extracted: 57
+2026-01-05 18:27:29,751 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-05 18:27:29,781 - INFO - Total Pages: 2. Processing: 2
+2026-01-05 18:27:29,782 - INFO - ---------------------------
+2026-01-05 18:27:29,782 - INFO - Processing Chunk: Pages 1-1
+2026-01-05 18:27:29,782 - INFO - Converting PDF pages 1 to 1...
+2026-01-05 18:27:38,197 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 18:28:36,045 - INFO - Extracted 27 records from batch.
+2026-01-05 18:28:39,569 - INFO - Chunk success. Added 27 records. Total: 27
+2026-01-05 18:28:39,569 - INFO - ---------------------------
+2026-01-05 18:28:39,569 - INFO - Processing Chunk: Pages 2-2
+2026-01-05 18:28:39,570 - INFO - Converting PDF pages 2 to 2...
+2026-01-05 18:28:47,381 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-05 18:29:41,131 - INFO - Extracted 30 records from batch.
+2026-01-05 18:29:43,275 - INFO - Chunk success. Added 30 records. Total: 57
+2026-01-05 18:29:43,282 - INFO - Total Records Extracted: 57
