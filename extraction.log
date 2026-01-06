@@ -145,3 +145,33 @@
 2026-01-05 18:29:41,131 - INFO - Extracted 30 records from batch.
 2026-01-05 18:29:43,275 - INFO - Chunk success. Added 30 records. Total: 57
 2026-01-05 18:29:43,282 - INFO - Total Records Extracted: 57
+2026-01-06 16:37:14,142 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-06 16:37:14,736 - INFO - Total Pages: 2. Processing: 2
+2026-01-06 16:37:14,737 - INFO - ---------------------------
+2026-01-06 16:37:14,737 - INFO - Processing Chunk: Pages 1-1
+2026-01-06 16:37:14,737 - INFO - Converting PDF pages 1 to 1...
+2026-01-06 16:37:24,681 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-06 16:38:45,472 - INFO - Extracted 27 records from batch.
+2026-01-06 16:38:51,835 - INFO - Chunk success. Added 27 records. Total: 27
+2026-01-06 16:38:51,837 - INFO - ---------------------------
+2026-01-06 16:38:51,837 - INFO - Processing Chunk: Pages 2-2
+2026-01-06 16:38:51,837 - INFO - Converting PDF pages 2 to 2...
+2026-01-06 16:39:00,824 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-06 16:40:16,559 - INFO - Extracted 30 records from batch.
+2026-01-06 16:40:19,120 - INFO - Chunk success. Added 30 records. Total: 57
+2026-01-06 16:40:19,177 - INFO - Total Records Extracted: 57
+2026-01-06 16:47:13,194 - INFO - Starting extraction for: C:\lekhan\unlocked-6-7.pdf
+2026-01-06 16:47:13,221 - INFO - Total Pages: 2. Processing: 2
+2026-01-06 16:47:13,222 - INFO - ---------------------------
+2026-01-06 16:47:13,222 - INFO - Processing Chunk: Pages 1-1
+2026-01-06 16:47:13,222 - INFO - Converting PDF pages 1 to 1...
+2026-01-06 16:47:22,281 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-06 16:52:57,424 - INFO - Extracted 27 records from batch.
+2026-01-06 16:53:00,863 - INFO - Chunk success. Added 17 records. Total: 17
+2026-01-06 16:53:00,864 - INFO - ---------------------------
+2026-01-06 16:53:00,865 - INFO - Processing Chunk: Pages 2-2
+2026-01-06 16:53:00,866 - INFO - Converting PDF pages 2 to 2...
+2026-01-06 16:53:10,461 - INFO - Sending batch of 1 pages to Gemini Vision...
+2026-01-06 16:56:00,645 - INFO - Extracted 30 records from batch.
+2026-01-06 16:56:02,737 - INFO - Chunk success. Added 30 records. Total: 47
+2026-01-06 16:56:02,742 - INFO - Total Records Extracted: 47
