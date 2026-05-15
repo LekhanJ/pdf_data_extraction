@@ -332,8 +332,6 @@ All tunable parameters live in `config.py`:
 
 ## 🔍 Technical Highlights
 
-**For resume/interview discussions:**
-
 - **Multimodal AI over OCR** — The project deliberately avoids Tesseract, AWS Textract, and similar tools. The source documents are spatially structured and label-free, making positional visual reasoning the only reliable approach. Gemini 2.5 Pro Vision handles this natively.
 - **Prompt engineering as core logic** — `prompts.py` is not a simple question — it encodes a complete visual parsing rulebook: which fields to extract, how to locate them by position, what to ignore (leading colons, decorative labels), and how to distinguish header-level fields from box-level fields.
 - **Structured output enforcement** — Setting `response_mime_type: "application/json"` in the generation config forces Gemini to emit valid JSON, eliminating regex parsing. The code still handles markdown fence edge cases defensively.
